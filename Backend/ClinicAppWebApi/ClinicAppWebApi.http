@@ -1,0 +1,6 @@
+@ClinicAppWebApi_HostAddress = http://localhost:5240
+
+GET {{ClinicAppWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
